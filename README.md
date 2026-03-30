@@ -1,2 +1,2 @@
 # calmate_food_log_skill
-小卡健康App官方提供的对话记录饮食的skill,专为openclaw的用户设计
+小卡健康饮食记录skill
