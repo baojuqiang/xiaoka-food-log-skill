@@ -8,7 +8,7 @@
 
 \```bash
 # 克隆到 OpenClaw skills 目录
-git clone https://github.com/你的用户名/xiaoka-food-log-skill \
+git clone https://github.com/baojuqiang/xiaoka-food-log-skill \
   ~/.openclaw/workspace/skills/xiaoka-food-log
 \```
 
